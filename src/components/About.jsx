@@ -58,7 +58,7 @@ const About = () => {
       setLoading(true); // Set loading state to true
 
       try {
-        const response = await fetch('http://localhost:8000/chat', {
+        const response = await fetch("https://portfolio-backend-mxxh.onrender.com/chat", {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
