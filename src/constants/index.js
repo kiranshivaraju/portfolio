@@ -16,7 +16,7 @@ systems, architectures, working with LLMs,
 Prompt Engineering, Data Science, Machine
 Learning and Artificial Intelligence`;
 
-export const ABOUT_TEXT = `To know more about me, talk to the my Digital Assistant "Ash" who is present towards the right side of your screen. She will be happy to help you with any queries you have. You can ask her about my work experience, about my graduation and more. If you have any questions or need further information, feel free to ask! She is still in the making, so go gentle on the questions :)`;
+export const ABOUT_TEXT = `To know more about me, talk to the my Digital Assistant "Ash"  who is to your right or a little below based on the device you are using to look up info about me. She will be happy to help you with any queries you have. You can ask her about my work experience, about my graduation and more. If you have any questions or need further information, feel free to ask! She is still in the making, so go gentle on the questions :)`;
 
 export const EXPERIENCES = [
   {
